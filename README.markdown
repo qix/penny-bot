@@ -6,9 +6,9 @@ Prelude
 
 This is a rather unorganised dump of the scripts I gathered together while writing a bot for a local penny auction site (www.smokoo.co.za). I honestly hate the idea of penny auctions but since I figured I could beat them decided to give it a shot. At the time there was nothing against any kind of bot in their T&C, so got to writing one.
 
-It took a fair amount of practice (and money) to get the first win, but eventually I persevered and won a couple items.
+After a fair amount of practice (and money) I started to win items using the bot. I ran the bot on a server for a while (much reduced ping time) which must have set off a whole bunch of alarms at their place - which then challenged me legally. Their claims and attitude towards the whole thing was shit, but as I was too busy to fight it legally and with the advice of a lawyer accepted a 90% discount (10% handling fee - eh?)
 
-The site then challenge me legally with a bunch of bullshit (mainly about 'collusion'), but as I was too busy to fight it legally I simply accepted a 90% discount (10% handling fee - eh?)
+The most upsetting bit about the whole deal is I can calculate just how much money I earned them personally (well over $10k), as well as the fact that they didn't refund the other bidders in the auctions that suddenly became 'void'.
 
 Strategy
 --------
